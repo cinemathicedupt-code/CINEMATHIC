@@ -62,7 +62,7 @@ const Navbar = () => {
               key={item.id}
               type="button"
               onClick={() => scrollToSection(item.id)}
-              className={`relative whitespace-nowrap tracking-wider font-semibold cursor-pointer ${
+              className={`relative text-[14px] whitespace-nowrap tracking-wider font-semibold cursor-pointer ${
                 item.badge
                   ? 'text-[#FFE45C]'
                   : 'cinemathic-link'
