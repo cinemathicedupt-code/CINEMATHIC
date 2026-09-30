@@ -36,11 +36,11 @@ const Contact = () => {
             <div className="serif text-[17px] leading-5 mt-4">
               JEE 2026 + Boards
               <br />
-              Mon–Sat · 6 PM IST
+              Mon–Sat · 3 PM IST
             </div>
 
             <div className="mt-4 text-[11px] text-[var(--text-muted)]">
-              Live on Zoom · Notes on WhatsApp
+              Live Class on Meet 
             </div>
           </div>
         </div>

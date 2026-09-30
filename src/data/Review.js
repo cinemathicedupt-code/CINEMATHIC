@@ -11,6 +11,7 @@ import anshitaVijay from '../assets/images/students/anshita_vijay.jpeg'
 import anshikaRai from '../assets/images/students/anshika_rai.jpeg'
 import advitchib from '../assets/images/students/advit_chib.jpeg'
 import aarjavTiwari from '../assets/images/students/aarjavTiwari.jpeg'
+import vaidik_jangid from '../assets/images/students/vaidik_jangid.jpeg'
 
 
 const reviews = [
@@ -157,6 +158,19 @@ const reviews = [
     hometown: 'Udhampur, Rajasthan',
     quote:
       'Ritik sir is the best teacher in the world his way of teaching difficult concepts is a gift only a few have. He has a way to connect with the students and his way of teaching is very immersive. I have had a wonderful experience with CINEMATHIC'
+  },
+  {
+    id: 13,
+    image: vaidik_jangid,
+    name: 'Vaidik Jangid',
+    score: '97/100 in Mathematics',
+    board: 'CBSE Board',
+    className: '10',
+    school: 'Army Public School, Kota',
+    hometown: 'Kota, Rajasthan',
+    quote:
+      `Being ritik sir's student was one of the best privileges for me, 
+he genuinely made me fall in love with the subject, his way of teaching maths is very simple but beautiful, it was a great experience ❤️`
   }
 ]
 

@@ -17,7 +17,7 @@ const Review = () => {
         </div>
 
         <div
-          className="mt-8 flex gap-4 overflow-x-auto pb-4 snap-x snap-mandatory "
+          className="mt-8 flex gap-4 overflow-x-auto pb-4 snap-x snap-mandatory p-4"
           style={{ scrollbarWidth: 'none' }}
         >
           {reviews.map((review, index) => (

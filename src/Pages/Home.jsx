@@ -20,9 +20,9 @@ export default function Home() {
         .inter { font-family: 'Inter', sans-serif; }
       `}</style>
 
-      <header>
+
         <Navbar/>
-      </header>
+
       <main>
         <CoachingIntro/>
         <MentorIntro/>

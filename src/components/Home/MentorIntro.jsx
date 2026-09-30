@@ -76,7 +76,7 @@ const MentorIntro = () => {
             </div>
 
             <div className="mt-2 text-[9px] uppercase tracking-[0.16em] text-[var(--text-muted)]">
-              — Classroom principle, since 2024
+              — Classroom principle, since 2023
             </div>
           </blockquote>
 

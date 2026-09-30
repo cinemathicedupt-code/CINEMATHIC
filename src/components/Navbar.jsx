@@ -70,10 +70,6 @@ const Navbar = () => {
 
           ic
 
-          <span className="text-green-700">
-            .
-          </span>
-
         </a>
 
         {/* Desktop Menu */}

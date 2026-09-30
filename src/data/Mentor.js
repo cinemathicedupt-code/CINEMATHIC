@@ -1,6 +1,6 @@
 const mentorStats = [
   {
-    title: 'Computer Science And Data Analyst',
+    title: 'Computer Science and Data Analytics',
     details: 'IIT Patna'
   },
   {
